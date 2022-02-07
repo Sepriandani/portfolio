@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/portfolio/static/js/main.050af602.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.050af602.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.55c36942.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.55c36942.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.59c330ae.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.59c330ae.js.map",
     "static/css/2.c268c7e3.chunk.css": "/portfolio/static/css/2.c268c7e3.chunk.css",
@@ -16,6 +16,7 @@
     "static/media/about-page-img.a48f0ecd.png": "/portfolio/static/media/about-page-img.a48f0ecd.png",
     "static/media/about-sec-img.59925306.png": "/portfolio/static/media/about-sec-img.59925306.png",
     "static/media/batik-teknik.d5bb47d0.PNG": "/portfolio/static/media/batik-teknik.d5bb47d0.PNG",
+    "static/media/e-learning.dbef7740.png": "/portfolio/static/media/e-learning.dbef7740.png",
     "static/media/hero2.56fd9f21.png": "/portfolio/static/media/hero2.56fd9f21.png",
     "static/media/hipostarine.1fcca5a0.png": "/portfolio/static/media/hipostarine.1fcca5a0.png",
     "static/media/map.da892a91.png": "/portfolio/static/media/map.da892a91.png",
@@ -27,6 +28,6 @@
     "static/js/runtime-main.59c330ae.js",
     "static/css/2.c268c7e3.chunk.css",
     "static/js/2.353c4acd.chunk.js",
-    "static/js/main.050af602.chunk.js"
+    "static/js/main.55c36942.chunk.js"
   ]
 }
