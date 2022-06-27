@@ -1,33 +1,35 @@
 {
   "files": {
-    "main.js": "/portfolio/static/js/main.55c36942.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.55c36942.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.6e9c3d0a.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.6e9c3d0a.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.59c330ae.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.59c330ae.js.map",
     "static/css/2.c268c7e3.chunk.css": "/portfolio/static/css/2.c268c7e3.chunk.css",
-    "static/js/2.353c4acd.chunk.js": "/portfolio/static/js/2.353c4acd.chunk.js",
-    "static/js/2.353c4acd.chunk.js.map": "/portfolio/static/js/2.353c4acd.chunk.js.map",
+    "static/js/2.c907418b.chunk.js": "/portfolio/static/js/2.c907418b.chunk.js",
+    "static/js/2.c907418b.chunk.js.map": "/portfolio/static/js/2.c907418b.chunk.js.map",
     "index.html": "/portfolio/index.html",
     "static/css/2.c268c7e3.chunk.css.map": "/portfolio/static/css/2.c268c7e3.chunk.css.map",
-    "static/js/2.353c4acd.chunk.js.LICENSE.txt": "/portfolio/static/js/2.353c4acd.chunk.js.LICENSE.txt",
+    "static/js/2.c907418b.chunk.js.LICENSE.txt": "/portfolio/static/js/2.c907418b.chunk.js.LICENSE.txt",
     "static/media/Montserrat-Bold.079ca05d.ttf": "/portfolio/static/media/Montserrat-Bold.079ca05d.ttf",
     "static/media/Montserrat-SemiBold.fa8441f3.ttf": "/portfolio/static/media/Montserrat-SemiBold.fa8441f3.ttf",
     "static/media/RobotoMono-Regular.418a8f9f.ttf": "/portfolio/static/media/RobotoMono-Regular.418a8f9f.ttf",
-    "static/media/about-page-img.a48f0ecd.png": "/portfolio/static/media/about-page-img.a48f0ecd.png",
+    "static/media/about-page-img2.20cc4a30.png": "/portfolio/static/media/about-page-img2.20cc4a30.png",
     "static/media/about-sec-img.59925306.png": "/portfolio/static/media/about-sec-img.59925306.png",
     "static/media/batik-teknik.d5bb47d0.PNG": "/portfolio/static/media/batik-teknik.d5bb47d0.PNG",
     "static/media/e-learning.dbef7740.png": "/portfolio/static/media/e-learning.dbef7740.png",
     "static/media/hero2.56fd9f21.png": "/portfolio/static/media/hero2.56fd9f21.png",
-    "static/media/hipostarine.1fcca5a0.png": "/portfolio/static/media/hipostarine.1fcca5a0.png",
+    "static/media/kbsb.573958ba.png": "/portfolio/static/media/kbsb.573958ba.png",
     "static/media/map.da892a91.png": "/portfolio/static/media/map.da892a91.png",
+    "static/media/mockup.3d1c531d.png": "/portfolio/static/media/mockup.3d1c531d.png",
+    "static/media/petanicanggih.b3732118.png": "/portfolio/static/media/petanicanggih.b3732118.png",
     "static/media/portfolio.77445b4f.png": "/portfolio/static/media/portfolio.77445b4f.png",
-    "static/media/scroll-down-arrow.b013ca45.svg": "/portfolio/static/media/scroll-down-arrow.b013ca45.svg",
-    "static/media/social-media-arrow.f5e093ce.svg": "/portfolio/static/media/social-media-arrow.f5e093ce.svg"
+    "static/media/scroll-down-arrow.8ad25c53.svg": "/portfolio/static/media/scroll-down-arrow.8ad25c53.svg",
+    "static/media/social-media-arrow.ecc0133c.svg": "/portfolio/static/media/social-media-arrow.ecc0133c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.59c330ae.js",
     "static/css/2.c268c7e3.chunk.css",
-    "static/js/2.353c4acd.chunk.js",
-    "static/js/main.55c36942.chunk.js"
+    "static/js/2.c907418b.chunk.js",
+    "static/js/main.6e9c3d0a.chunk.js"
   ]
 }
